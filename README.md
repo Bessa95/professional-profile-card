@@ -28,3 +28,7 @@
 ## Fonts:
 - family: 
 - weigth: 500, 700	
+
+---
+- Algumas alterações foram feitas
+![image](https://user-images.githubusercontent.com/115126365/219742364-e59b2386-8390-4b5a-968e-590defc9fe22.png)
