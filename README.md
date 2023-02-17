@@ -1,5 +1,4 @@
 # Professional Profile Card
----
 
 ## Conteúdo:
 - Barra de menu com menu hamburguer
