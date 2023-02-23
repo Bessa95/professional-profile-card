@@ -18,16 +18,33 @@
 
 ---
 ## Colors:
-- menu: #161B22
-- background: #0D1117
-- menu-card: #191829
-- background-card: #141421
-- link: #BD93F9
-- link-hover: #FF79AB ou #50EC4B
+- primary: #1b212d;
+- secondary: #ebebed;
+- terceary: #f2e9d8;
+- word-1: #fb6e1f;
+- word-2: #4e6424;
+- word-3: #ff9500;
+- word-1-hover: #ff9500;
+- word-2-hover: #7ba827;
+- word-3-hover: #fb6e1f;
+    
+- link: #DD180E;
+- link-hover: #F14B00;
+
+- color-bg-light: #0D1117;
+- color-bg-dark: #F0F0F0;
+
 
 ## Fonts:
-- family: 
+- font-menu: 'Lobster', cursive;
+- font-content: 'Ubuntu', sans-serif;
 - weigth: 500, 700	
+
+
+## Spacing:
+- pattern-size-large: 5rem;
+- pattern-size-medium: 2rem;
+- pattern-size-small: 1rem;
 
 ---
 - Algumas alterações foram feitas
